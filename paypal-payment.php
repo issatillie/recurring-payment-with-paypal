@@ -1,7 +1,8 @@
-// Include PayPal SDK and configure API credentials
-use PayPal\Api\Agreement;
 <?php 
 
+// Include PayPal SDK and configure API credentials
+
+use PayPal\Api\Agreement;
 use PayPal\Api\AgreementStateDescriptor;
 use PayPal\Api\ChargeModel;
 use PayPal\Api\Currency;
